@@ -3,10 +3,10 @@
 ## :pushpin: What is TEXTOIR
 **TEXOIR** is the first integrated and visualized platform for text open intent recognition. The demonstration video is available at [there.](https://github.com/XTenLee/TEXTOIR)
 
-## 概述
+## :house:  Overview
 
-## 使用流程
+## :wrench: How to use
 
-## 安装
+## :hammer: Install
 
-## 常见问题
+## :question: FAQ
