@@ -18,6 +18,10 @@ Our system consists of four parts, which are *Dataset Management*,*Open Intent D
 
 ## :loudspeaker: How to use
 ![image](https://github.com/XTenLee/TEXTOIR/blob/main/image/handbook.png)
+* **Dataset Management:**
+* **Open Intent Detection:**
+* **Open Intent Discovery:**
+* **Data Annotation:**
 ## :hammer: Install
 
 After updating...
