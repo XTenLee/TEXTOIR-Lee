@@ -17,7 +17,7 @@ Our system consists of four parts, which are *Dataset Management*,*Open Intent D
 * We connect the open intent detection and intent discovery modules in a pipeline scheme and achieves multiple model combination. Based on the pipeline scheme, the application of *Data Annotation* is realized.
 
 ## :loudspeaker: How to use
-
+![image](https://github.com/XTenLee/TEXTOIR/blob/main/image/handbook.png)
 ## :hammer: Install
 
 After updating...
