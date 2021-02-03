@@ -8,7 +8,7 @@ The demonstration video is available at [there.](https://github.com/XTenLee/TEXT
 
 ## :house:  Overview
 
-## :wrench: How to use
+## :loudspeaker: How to use
 
 ## :hammer: Install
 
