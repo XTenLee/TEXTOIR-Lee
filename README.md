@@ -12,5 +12,9 @@ The demonstration video is available at [there.](https://github.com/XTenLee/TEXT
 
 ## :hammer: Install
 
+After updating...
+
 ## :question: FAQ
+
+After updating...
   
