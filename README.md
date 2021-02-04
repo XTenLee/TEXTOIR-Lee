@@ -19,6 +19,13 @@ Our system consists of four parts, which are *Dataset Management*,*Open Intent D
 ## :loudspeaker: How to use
 ![image](https://github.com/XTenLee/TEXTOIR/blob/main/image/handbook.png)
 * **Dataset Management:**
+数据管理模块存储了当下流行的开放意图识别公开数据集。同样，为了服务于数据标注功能，用户可以在这个模块上传需要标注的数据集。
+1. 数据展示
+根据名字、类型搜索
+2. 数据增加
+3. 数据修改
+4. 数据删除
+
 
 * **Open Intent Detection:**
 * **Open Intent Discovery:**
