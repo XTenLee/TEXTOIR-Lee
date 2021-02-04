@@ -40,7 +40,12 @@ Open Intent Detection 模块提供了4个基础功能，模型存储、模型训
 3. 模型测试
 4. 模型分析
 * **Data Annotation:**
-Data Annotation 模块提供数据标签推荐功能。此模块集成了新意图检测和新意图发现两个模块来对未标注数据进行标签推荐。
+Data Annotation 模块提供数据标签推荐功能。此模块集成了新意图检测和新意图发现两个对未标注数据进行标签推荐。
+1. 数据准备--在用户端上传
+2. 数据标注 -- 选择对应的模型
+3. 标签修改 
+
+
 ## :hammer: Install
 
 After updating...
