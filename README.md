@@ -28,8 +28,19 @@ Our system consists of four parts, which are *Dataset Management*,*Open Intent D
 
 
 * **Open Intent Detection:**
+Open Intent Detection 模块提供了4个基础功能，模型存储、模型训练、模型测试、模型分析。
+1. 模型存储
+2. 模型训练
+3. 模型测试
+4. 模型分析
 * **Open Intent Discovery:**
+Open Intent Detection 模块提供了4个基础功能，模型存储、模型训练、模型测试、模型分析。
+1. 模型存储
+2. 模型训练
+3. 模型测试
+4. 模型分析
 * **Data Annotation:**
+Data Annotation 模块提供数据标签推荐功能。此模块集成了新意图检测和新意图发现两个模块来对未标注数据进行标签推荐。
 ## :hammer: Install
 
 After updating...
