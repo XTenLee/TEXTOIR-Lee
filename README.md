@@ -43,7 +43,7 @@ Open Intent Detection module provides four basic functions, including Model Mana
 Data Annotation module provides data label recommendation function. This module integrates new intent detection and new intent discovery to recommend tags for unlabeled data.
 1. Data Preparation, TEXTOIR provides a data upload interface in the data management section so that users can upload their own data sets to be annotated according to their actual needs.
 2. Data Annotation, TEXTOIR combines SOTA open intent detection and open intent discovery models to provide a paradigm for open intent identification. On the basis of pipline schema, we integrate the tag recommendation algorithm and form the basic structure of data tag recommendation.In the data annotation page, users select the data set to be annotated and the annotation algorithm to perform data annotation.
-3. Label Modified, TEXTOIR gives users the ability to modify labels. The annotation model provided by Textoir will generate four recommendation labels and automatically select the one with the highest probability as a "selectedLabel". If users are not satisfied with the recommended tags provided by the system, they can modify the tags by clicking the remaining candidate tags.
+3. Label Modified, TEXTOIR gives users the ability to modify labels. The annotation model provided by Textoir will generate four recommendation labels and automatically select the one with the highest probability as a "selected Label". If users are not satisfied with the recommended tags provided by the system, they can modify the tags by clicking the remaining candidate tags.
 
 
 ## :hammer: Install
