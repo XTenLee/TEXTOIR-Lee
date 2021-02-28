@@ -49,8 +49,9 @@
   
   **Example**
   
-  `
-  {"snips_1.0_1.0_overall_performance":{
+  `{
+  
+  "snips_1.0_1.0_overall_performance":{
     
         "intent_class": ["AddToPlayList", "GetWeather", "ReatBook", "Book Ticket", "Book Resutrant", "Play Music"],
         
