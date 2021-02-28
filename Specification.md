@@ -171,3 +171,37 @@
 }
 
 ```
+
+![image](https://user-images.githubusercontent.com/37832030/109410926-625c1c80-79d9-11eb-9ce7-c6c84e33b0ff.png)
+
+**Naming Scheme of json**：Discovery_ Model_Analysis.json
+
+**Naming Scheme of Key Words**：MethodName_Example
+  
+**Example**
+
+```
+ "DeepAligned_Example2_discovery_ring":{//意图发现预测后，已知意图各类数量，名称，以及未知意图的数量，名称（UnKnown Intent）。
+        "discovery_ring":[
+    {"value": 1048, "name": "Play Music"},
+    {"value": 735, "name": "Book Resturant"},
+    {"value": 580, "name": "Book Ticket"},
+    {"value": 484, "name": "RateBook"},
+    {"value": 300, "name": "GetWeather"},
+    {"value": 580, "name": "AddToPlaylist"},
+    {"value": 484, "name": "UnKnown Intent"}
+]
+    },
+   "DeepAligned_Example2_discovery_pie":{//对于未知意图聚类后，分为多个类，每个类抽取关键词，后面对应的是属于该关键词的概率。
+     "discovery_pie":  [
+    {"value": 40, "name": "Intent#1","KeyWord1":"Play Movie","KeyWord2":"Movie","KeyWord3":"Movie Star","value1":0.7,"value2":0.21,"value3":0.09},
+    {"value": 38, "name": "Intent#2","KeyWord1":"Book Ticket","KeyWord2":"Book","KeyWord3":"Ticket","value1":0.5,"value2":0.31,"value3":0.19},
+    {"value": 32, "name": "Intent#3","KeyWord1":"Weather","KeyWord2":"Cold","KeyWord3":"Wind","value1":0.65,"value2":0.2,"value3":0.15},
+    {"value": 30, "name": "Intent#4","KeyWord1":"PlayList","KeyWord2":"Add","KeyWord3":"Music","value1":0.73,"value2":0.2,"value3":0.07},
+    {"value": 28, "name": "Intent#5","KeyWord1":"Movie","KeyWord2":"Play","KeyWord3":"Movie Star","value1":0.8,"value2":0.1,"value3":0.1},
+    {"value": 26, "name": "Intent#6","KeyWord1":"Resturant","KeyWord2":"Book Resturant","KeyWord3":"Food","value1":0.83,"value2":0.1,"value3":0.07},
+    {"value": 22, "name": "Intent#7","KeyWord1":"Book","KeyWord2":"Want","KeyWord3":"How much","value1":0.71,"value2":0.21,"value3":0.08}
+]
+    }
+
+```
