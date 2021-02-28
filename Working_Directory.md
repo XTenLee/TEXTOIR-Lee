@@ -48,6 +48,7 @@
   **Naming Scheme of Key Words**：DatasetNmae_Klr_LR_ModelName_ overall_performance
   
   **Example**
+  
   `{
   
     "snips_1.0_1.0_overall_performance":{
@@ -74,8 +75,6 @@
     
     "Play Music":[-32, -30, -30, -33, -39, 0]
     
-}
-}
-`
+}}`
   
   
