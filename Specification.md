@@ -6,7 +6,7 @@
 ├── detection			//Open Intent Detection
 ├── discovery			//Open Intent Discovery
 ├── annotation			//Data Annotaion
-├── static        //Static Resource
+├── static          //Static Resource
 │   ├── test_data		//Test Data
 │   ├── img			//image
 │   ├── lib			//Front Style
