@@ -1,4 +1,4 @@
-# The wWrking Directory of TEXTOIR
+# The Directory of TEXTOIR
 
 ```
 .
