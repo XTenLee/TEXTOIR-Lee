@@ -43,7 +43,7 @@
 ### Model Test
 ![image](https://user-images.githubusercontent.com/37832030/109410374-21fa9f80-79d5-11eb-8c93-6ce543f56059.png)
 
-1.**Naming Scheme of json**：Detection_Overall_Performance_Error_Analyze.json
+**Naming Scheme of json**：Detection_Overall_Performance_Error_Analyze.json
 
   **Naming Scheme of Key Words**：DatasetNmae_Klr_LR_ModelName_ overall_performance
   
