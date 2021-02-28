@@ -2,40 +2,40 @@
 
 .
 
-├── thedataset 			//数据集管理模
+├── thedataset 			//Dataset Management
 
-├── detection			//意图检测模块
+├── detection			//Open Intent Detection
 
-├── discovery			//意图发现模块
+├── discovery			//Open Intent Discovery
 
-├── annotation			//数据标注模块
+├── annotation			//Data Annotaion
 
-├── static				//静态资源
+├── static				//Static Resource
 
-│   ├── test_data		//测试数据存放位置
+│   ├── test_data		//Test Data
 
-│   ├── img			//图片
+│   ├── img			//image
 
-│   ├── lib				//前端样式
+│   ├── lib				//Front Style
 
-│   ├── log				//运行记录
+│   ├── log				//Run Log
 
-│   └── models			//模型存放路径
+│   └── models			//Intention Recognition Models
 
-│       ├── result		//json文件存放目录
+│       ├── result		//json
 
-│       ├── data			//存放数据集
+│       ├── data			//Datasets
 
-│       ├── open_intent_detection	//意图检测算法
+│       ├── open_intent_detection	//Intent Detection Models
 
-│       ├── open_intent_discovery	//意图发现算法
+│       ├── open_intent_discovery	//Intent Discovery Models
 
-│       ├── run_detect.py			//意图检测运行文件
+│       ├── run_detect.py			//Entry of Run Intent Detection
 
-│       └── run_discover.py		//意图发线运行文件
+│       └── run_discover.py		//Entry of Run Intent Discovery
 
-├── textoir				//项目setting目录
+├── textoir				//Setting
 
-└── templates			//前端页面
+└── templates			//Front Page
 
 # 
