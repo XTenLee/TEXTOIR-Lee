@@ -1,4 +1,4 @@
-# The working directory of TEXTOIR
+# The wWrking Directory of TEXTOIR
 
 ```
 .
@@ -94,21 +94,21 @@
   
 **Example**
 ```
- "ADB_Example2_circle_r": //决策边界方法中边界圆的半径设置
+ "ADB_Example2_circle_r": 
 {
     "r1": 30,
     "r2": 40,
     "r3": 50,
     "r4": 60
  },
-    "ADB_Example2_circle_xy"://决策边界方法中边界圆心设置
+    "ADB_Example2_circle_xy":
 {
     "Boundary#1": [[1.5,5.7,30]],
     "Boundary#2": [[2.5,1.5,40]],
     "Boundary#3": [[4.1,4.1,50]],
     "Boundary#4": [[6,6.5,60]]
  },
-    "ADB_Example2_cluster":{//样例的2维坐标点
+    "ADB_Example2_cluster":{
     "Cluster#1" : [
         [1.275154, 5.957587,30],
         [1.441611, 5.444826,30],
@@ -151,7 +151,7 @@
 **Example**
 
 ```
-"DeepUnk_Example2_bar":  {//每个意图类别中，每个样例属于此类的概率，下表中展示了6个样例。中括号中第几个数据代表第几个样例属于此类别的概率。
+"DeepUnk_Example2_bar":  {
     "Play Music":[0.1, 0.12, 0.17, 0.1, 0.1, 0.03], 
     "Book Resturant":[0.1, 0.11, 0.1, 0.16, 0.16, 0.75],
     "Book Ticket":[0.15, 0.7, 0.12, 0.21, 0.1, 0.1],
@@ -160,7 +160,7 @@
     "AddToPlaylist":[0.1,  0.21, 0.7, 0.1, 0.1, 0.14],
     "UnKnown Intent":[0.1,  0.01, 0.12, 0.1, 0.9, 0.01]  
 },
-  "DeepUnk_Example2threshold":   {//每个类别的概率阈值，有几个样例需要重复设置几次。
+  "DeepUnk_Example2threshold":   {
     "Threshold-Play Music":[0.55, 0.55,0.55,0.55,0.55,0.55],
     "Threshold-Book Resturant":[0.43, 0.43,0.43,0.43,0.43,0.43],
     "Threshold-Book Ticket":[0.5, 0.5,0.5,0.5,0.5,0.5],
@@ -181,7 +181,7 @@
 **Example**
 
 ```
- "DeepAligned_Example2_discovery_ring":{//意图发现预测后，已知意图各类数量，名称，以及未知意图的数量，名称（UnKnown Intent）。
+ "DeepAligned_Example2_discovery_ring":{/
         "discovery_ring":[
     {"value": 1048, "name": "Play Music"},
     {"value": 735, "name": "Book Resturant"},
@@ -192,7 +192,7 @@
     {"value": 484, "name": "UnKnown Intent"}
 ]
     },
-   "DeepAligned_Example2_discovery_pie":{//对于未知意图聚类后，分为多个类，每个类抽取关键词，后面对应的是属于该关键词的概率。
+   "DeepAligned_Example2_discovery_pie":{
      "discovery_pie":  [
     {"value": 40, "name": "Intent#1","KeyWord1":"Play Movie","KeyWord2":"Movie","KeyWord3":"Movie Star","value1":0.7,"value2":0.21,"value3":0.09},
     {"value": 38, "name": "Intent#2","KeyWord1":"Book Ticket","KeyWord2":"Book","KeyWord3":"Ticket","value1":0.5,"value2":0.31,"value3":0.19},
