@@ -2,7 +2,7 @@
 
 # TEXTOIR HandBook
 ![image](https://github.com/XTenLee/TEXTOIR-Lee/blob/main/image/handbook.png)
-![image](https://user-images.githubusercontent.com/37832030/114359290-610c3b00-9ba6-11eb-92a7-ff5fe70feaf8.png)
+
 
 ## :pushpin: What is TEXTOIR
 **TEXOIR** is the first integrated and visualized platform for text Open Intent Recognition(OIR). 
